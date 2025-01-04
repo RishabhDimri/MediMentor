@@ -18,7 +18,6 @@ This project involves creating an AI-powered chatbot designed to assist medical 
 - **JavaScript**: For integrating the chatbot into the website.
 - **Node.js**: Backend server for handling API requests and chatbot interaction.
 
-
 ## Setup
 
 1. Clone the repository:
